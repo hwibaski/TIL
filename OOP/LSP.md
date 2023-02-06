@@ -12,12 +12,14 @@
   구현 클래스 is a able of 인터페이스 - 구현 분류는 인터페이스 할 수 있어야 한다.
 
 ## LSP가 위배된 경우의 클래스 계층도
-![img_2.png](img_2.png)
+![image](https://user-images.githubusercontent.com/85930725/217015102-f4fb6b9b-b5e9-4c85-b9d0-5a87d70f54ad.png)
+
 - 이미지 출처 : https://geunzrial.tistory.com/173
 
 
 ## LSP가 잘 지켜진 경우의 클래스 계층도
-![img_3.png](img_3.png)
+![image](https://user-images.githubusercontent.com/85930725/217015136-6ba9a4ae-82e5-4982-908a-5a13421409ef.png)
+
 - 이미지 출처 : https://geunzrial.tistory.com/173
 
 ### Reference
