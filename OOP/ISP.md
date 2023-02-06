@@ -5,14 +5,14 @@
 
 ## ISP 적용 전
 
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/85930725/217015313-8951c038-eec9-478e-af5c-fea47ecb697b.png)
 - 이미지 출처 : https://yoongrammer.tistory.com/99
 
 Car 클래스는 vehicle의 fly()를 사용하지 않는다. 
 
 ## ISP 적용 후
 
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/85930725/217015331-afa18c89-04bd-4c42-b5da-bf995e149982.png)
 - 이미지 출처 : https://yoongrammer.tistory.com/99
 
 ISP는 인터페이스가 응집력 측면에서 작게 분할하여 클래스가 필요한 작업만 실행하도록 하는 것을 목표로 한다.
