@@ -1,5 +1,4 @@
 # SRP (Single Responsibility Principle) - 단일 책임 원칙
-<hr>
 
 단일 책임 원칙 - 클래스는 하나의 책임을 가져야한다.
 

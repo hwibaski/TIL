@@ -1,5 +1,4 @@
 # DIP (Dependency Inversion Principle) - 의존성 역전 원칙
-<hr>
 
 의존성 역전 원칙 - 객체는 저수준 모듈보다 고수준 모듈에 의존해야한다.
 
