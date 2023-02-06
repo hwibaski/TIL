@@ -1,7 +1,6 @@
 # TIL
 
 ## OOP
-<hr>
 
 - SOLID
   - DIP
