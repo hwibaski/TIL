@@ -7,10 +7,9 @@
 - [JVM](https://github.com/hwibaski/TIL/tree/main/JAVA/JVM)
   - [JVM 개요](https://github.com/hwibaski/TIL/blob/main/JAVA/JVM/JVM.md)
 
-
 ## OOP
 
-- [SOLID]
+- [SOLID](https://github.com/hwibaski/TIL/tree/main/OOP/SOLID)
   - [DIP - 의존성 역전 원칙](https://github.com/hwibaski/TIL/blob/main/OOP/SOLID/DIP.md)
   - [ISP - 인터페이스 분리 원칙](https://github.com/hwibaski/TIL/blob/main/OOP/SOLID/ISP.md)
   - [LSP - 리스코프 치환 원칙](https://github.com/hwibaski/TIL/blob/main/OOP/SOLID/LSP.md)
