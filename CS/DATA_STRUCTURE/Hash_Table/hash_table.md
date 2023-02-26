@@ -54,4 +54,5 @@ BAD는 214로 변환된다.
 ### Reference
 - https://baeharam.netlify.app/posts/data%20structure/hash-table
 - https://www.youtube.com/watch?v=ZBu_slSH5Sk&t=3s
+- https://www.youtube.com/watch?v=Vi0hauJemxA
 - 누구나 자료구조와 알고리즘(도서) 
