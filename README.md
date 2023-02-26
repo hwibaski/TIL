@@ -10,6 +10,10 @@
 ## JAVA
 - [JVM](https://github.com/hwibaski/TIL/tree/main/JAVA/JVM)
   - [JVM 개요](https://github.com/hwibaski/TIL/blob/main/JAVA/JVM/JVM.md)
+  - [클래스 로더](https://github.com/hwibaski/TIL/blob/main/JAVA/JVM/JVM_CLASS_LOADER.md)
+  - [runtime data area](https://github.com/hwibaski/TIL/blob/main/JAVA/JVM/JVM_RUNTIME_DATA_AREA.md)
+  - [간단한 메모리 동작 방식](https://github.com/hwibaski/TIL/blob/main/JAVA/JVM/JAVA_MEMORY.md)
+  - [GC](https://github.com/hwibaski/TIL/blob/main/JAVA/JVM/JVM_GC.md)
 
 ## OOP
 
