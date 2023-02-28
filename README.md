@@ -1,7 +1,8 @@
 # TIL
 
 ## 운영체제
-- [프로세스](https://github.com/hwibaski/TIL/blob/main/CS/PROCESS/process.md)
+- [프로세스](https://github.com/hwibaski/TIL/blob/main/CS/OPERATING_SYSTEM/PROCESS/process.md)
+- [context switching](https://github.com/hwibaski/TIL/blob/main/CS/OPERATING_SYSTEM/CONTEXT_SWITCHING/context_switching.md)
 
 ## DATA_STRUCTURE
   - [array](https://github.com/hwibaski/TIL/tree/main/CS/DATA_STRUCTURE/ARRAY/array)
