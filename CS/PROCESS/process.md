@@ -22,19 +22,19 @@
 - CPU 사용률이 좋지 않음
 - 해결책 : 여러 개의 프로그램을 메모리에 올려놓고 동시에 실행시키자(멀티프로그래밍)! -> IO 작업이 발생하면 다른 프로세스가 CPU에서 실행됨
 
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/85930725/221897119-0cabf0ec-40c0-43e5-9a95-72aecea6c9ea.png)
 
 ## 멀티 프로그래밍의 등장
 - 하나의 프로세스의 CPU 사용 시간이 길어지면 다른 프로세스는 계속 대기해야함
 
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/85930725/221897154-dae96a42-5ff7-4300-9220-8e45aecb948a.png)
 
 <br>
 - 프로세스 별로 CPU 사용 가능 시간(quantum)을 정해서 그 시간에만 CPU 사용할 수 있도록 해서 해결
 
 <br>
 
-![img_2.png](img_2.png)
+![image](https://user-images.githubusercontent.com/85930725/221897182-2df73e72-732b-4820-8536-617443aca6ac.png)
 
 ## 멀티 프로그래밍의 아쉬운 점 및 멀티 쓰레드의 등장
 1. 멀티 프로그래밍의 등장으로 동시에 여러개의 프로그램을 실행하는 것처럼 구현이 가능했지만 하나의 프로세스가 동시에 여러 작업을 수행하지는 못함
@@ -51,7 +51,7 @@
 ## 멀티 쓰레딩
 - 하나의 프로세스가 동시에 여러 작업을 실행하는데 목적
 
-![img_4.png](img_4.png)
+![image](https://user-images.githubusercontent.com/85930725/221896744-fd5e2be2-d3cc-4bf3-aa4b-e20043be3968.png)
 
 ## 멀티 프로세싱
 - 두 개 이상의 프로세서나 코어를 활용하는 시스템
