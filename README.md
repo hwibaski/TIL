@@ -1,5 +1,8 @@
 # TIL
 
+## 운영체제
+- [프로세스](https://github.com/hwibaski/TIL/blob/main/CS/PROCESS/process.md)
+
 ## DATA_STRUCTURE
   - [array](https://github.com/hwibaski/TIL/tree/main/CS/DATA_STRUCTURE/ARRAY/array)
     - [static_array](https://github.com/hwibaski/TIL/blob/main/CS/DATA_STRUCTURE/ARRAY/array/array.md)
