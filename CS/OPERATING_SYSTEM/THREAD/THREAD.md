@@ -12,7 +12,7 @@
 - 한 쓰레드가 블락이 되어도 다른 쓰레드는 잘 동작한다.
 - race condition 가능성이 있음
 
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/85930725/226680437-787ef58c-72c6-4cc5-93ac-e8f9ca93a7a9.png)
 
 ### 2. Many-to-One model
 - Context Switching이 더 빠름. why? OS Thread 간의 context switching 발생하지 않는다. 이는 커널이 개입하지 않기 때문에 더 빠르다.
@@ -30,7 +30,7 @@
 - 사용자 레벨 스레드에 대한 정교한 스케줄링 제공
 - 커널은 현재 활성화된 스레드만 관리
 
-![img_2.png](img_2.png)
+![image](https://user-images.githubusercontent.com/85930725/226680531-f32cd273-7e0d-4502-baf4-f33f78c4fe9b.png)
 
 
 ### 용어 정리
