@@ -12,7 +12,7 @@
 - 한 쓰레드가 블락이 되어도 다른 쓰레드는 잘 동작한다.
 - race condition 가능성이 있음
 
-![image](https://user-images.githubusercontent.com/85930725/226680437-787ef58c-72c6-4cc5-93ac-e8f9ca93a7a9.png)
+![image](https://user-images.githubusercontent.com/85930725/226680755-9a0e371d-9814-42d3-98ed-4447613cf188.png)
 
 ### 2. Many-to-One model
 - Context Switching이 더 빠름. why? OS Thread 간의 context switching 발생하지 않는다. 이는 커널이 개입하지 않기 때문에 더 빠르다.
@@ -21,7 +21,7 @@
 - 여러개의 user thread중 하나의 쓰레드가 block I/O를 실행하는 순간 연결된 OS Thread가 block되고 이는 모든 user Thread가 블락됨을 의미한다. -> 이를 해결하기 위해 nonblock I/O를 사용
 - 초기 Java 스레드 모델
 
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/85930725/226680787-cc8e2eba-7b91-40a6-bb6c-59959a22366e.png)
 
 ### 3. Many-to-Many model
 - One-to-One Model과 Many-to-One Model의 단점을 보완하기 위해 등장
@@ -30,7 +30,7 @@
 - 사용자 레벨 스레드에 대한 정교한 스케줄링 제공
 - 커널은 현재 활성화된 스레드만 관리
 
-![image](https://user-images.githubusercontent.com/85930725/226680531-f32cd273-7e0d-4502-baf4-f33f78c4fe9b.png)
+![image](https://user-images.githubusercontent.com/85930725/226680832-6f2504b0-e1c0-4a17-9be3-767c182b6354.png)
 
 
 ### 용어 정리
