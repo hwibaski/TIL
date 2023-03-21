@@ -2,6 +2,7 @@
 
 ## 운영체제
 - [프로세스](https://github.com/hwibaski/TIL/blob/main/CS/OPERATING_SYSTEM/PROCESS/process.md)
+- [스레드](https://github.com/hwibaski/TIL/blob/main/CS/OPERATING_SYSTEM/THREAD/THREAD.md)
 - [context switching](https://github.com/hwibaski/TIL/blob/main/CS/OPERATING_SYSTEM/CONTEXT_SWITCHING/context_switching.md)
 
 ## DATA_STRUCTURE
