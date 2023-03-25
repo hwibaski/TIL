@@ -20,6 +20,8 @@
   - [runtime data area](https://github.com/hwibaski/TIL/blob/main/JAVA/JVM/JVM_RUNTIME_DATA_AREA.md)
   - [간단한 메모리 동작 방식](https://github.com/hwibaski/TIL/blob/main/JAVA/JVM/JAVA_MEMORY.md)
   - [GC](https://github.com/hwibaski/TIL/blob/main/JAVA/JVM/JVM_GC.md)
+- [COLLECTIONS](https://github.com/hwibaski/TIL/tree/main/JAVA/COLLECTIONS)
+  - [hash_map](https://github.com/hwibaski/TIL/blob/main/JAVA/COLLECTIONS/HASH_MAP.md)
 
 ## OOP
 
