@@ -50,7 +50,13 @@
   2. Configuration : 빌드에 대한 작업 그래프를 구성. 사용자가 실행할 태스크를 기준으로 실행할 태스크와 순서를 결정
   3. Execution : Configuration 단계에서 선택된 태스크들을 실행
 
+## 설치
+- Gradle 설치 전 필요사항
+  1. 8버전 이상의 JDK
+  2. Groovy library 가 Gradle에 포함되어 있으므로 따로 설치할 필요 없음
 
-### Refernce
+
+
+### Reference
 https://docs.gradle.org/current/userguide/what_is_gradle.html
 https://kotlinworld.com/323
