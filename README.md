@@ -13,6 +13,11 @@
 ## FP
   - [함수형 프로그래밍](https://github.com/hwibaski/TIL/blob/main/FP/%ED%95%A8%EC%88%98%ED%98%95_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
   
+## GRADLE
+- [GRADLE](https://github.com/hwibaski/TIL/tree/main/GRADLE)
+  - [GRADLE 개요](https://github.com/hwibaski/TIL/blob/main/GRADLE/GRADLE_INTRO.md)
+  - [gradlew chatgpt로 해석해보기](https://github.com/hwibaski/TIL/blob/main/GRADLE/GRADLE_WRAPPER.md)
+  
 ## JAVA
 - [JVM](https://github.com/hwibaski/TIL/tree/main/JAVA/JVM)
   - [JVM 개요](https://github.com/hwibaski/TIL/blob/main/JAVA/JVM/JVM.md)
