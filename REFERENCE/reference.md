@@ -1,5 +1,10 @@
 # reference
 
+## JAVA
+
+- Collections
+  - [Collections.unmodifiableMap 메소드를 이용한 read-only 객체 만들기](https://lng1982.tistory.com/155)
+
 ## GRADLE
 
 - dependencies 관련
@@ -35,10 +40,30 @@
     - [JPA로 RDB에 JSON 타입 다루기](https://danawalab.github.io/spring/2022/08/05/Jpa-Json-Type.html)
   - Postgres
     - [Mapping PostgreSQL Array With Hibernate](https://www.baeldung.com/java-hibernate-map-postgresql-array)
+- WebFlux, Reactive
+  - [[리액터] 리액티브 프로그래밍 1부 리액티브 프로그래밍 소개](https://www.youtube.com/watch?v=VeSHa_Xsd2U&list=PLfI752FpVCS9hh_FE8uDuRVgPPnAivZTY)
+- jwt
+  - [Spring boot jwt token 사용하기](https://charlie-choi.tistory.com/211)
+  - [Spring JWT 인코딩, 디코딩 하기 - Java Json 파싱](https://thalals.tistory.com/354)
+  - [[Spring] JWT 토큰 생성과 검증하는 코드 빠르게 알아보기](https://seeminglyjs.tistory.com/369)
 - etc
   - [secret, config 파일 관리 방법 소개(feat. SpringBoot의 application.*)](https://kukim.tistory.com/150)
+  - [@Value로 application.yml의 값 가져오기](https://velog.io/@jduckling_1024/Value%EB%A1%9C-application.yml%EC%9D%98-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 
 ## GIT
 
 - remote
   - [Git remote branch 가져오기](https://cjh5414.github.io/get-git-remote-branch/)
+
+
+## NETWORK
+
+- block, non-block & sync, async
+  - [쉬운 코드(youtube) : block vs non-block](https://www.youtube.com/watch?v=mb-QHxVfmcs)
+  - [[10분 테코톡] 🐰 멍토의 Blocking vs Non-Blocking, Sync vs Async](https://www.youtube.com/watch?v=oEIoqGd-Sns)
+  - [동기와 비동기, 그리고 블럭과 넌블럭](https://musma.github.io/2019/04/17/blocking-and-synchronous.html)
+
+## IDE
+
+- Intellij
+  - [IntelliJ 자주 사용하는 기능 정리](https://cheese10yun.github.io/intellij-tip/?fbclid=IwAR3SsLxfsw-vFXkRaTw26QAXghNK3dVL9wEO9vWF_rN24lJ-eTSN19LmcyI)
