@@ -54,6 +54,7 @@
 
 - remote
   - [Git remote branch 가져오기](https://cjh5414.github.io/get-git-remote-branch/)
+  - [gitignore global](https://gomjellie.github.io/git/2017/06/15/global-git-ignore.html)
 
 
 ## NETWORK
